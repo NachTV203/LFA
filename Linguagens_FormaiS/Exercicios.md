@@ -944,20 +944,50 @@ Significa:
 Antes de avançar para a próxima aula, verifique se você consegue explicar:
 
 * [ ] O que é um **alfabeto `Σ`**;
+
+      É um conjunto finito de símbolos.
 * [ ] O que é uma **cadeia**;
+
+      Uma sequência de símbolos pertencentes ao alfabeto.
 * [ ] O que significa **`ε`**;
+
+      Representa uma cadeia que não possui nenhum símbolo (palavra vazia). Não é um espaço em branco.
 * [ ] Por que **`|ε| = 0`**;
+
+      Porque o comprimento da cadeia vazia é zero.
 * [ ] O que é um **prefixo**;
+
+      É uma parte da palavra que começa no início.
 * [ ] O que é um **sufixo**;
+
+      É uma parte da palavra que termina no final.
 * [ ] O que significa **`Σ*`**;
+
+      Representa o conjunto de todas as cadeias finitas que podem ser formadas utilizando os símbolos de Σ, incluindo ε.
 * [ ] Se `Σ*` possui limite de tamanho;
+
+      Não existe limite máximo para o tamanho das palavras. Σ* é infinito, mas cada cadeia individual possui tamanho finito.
 * [ ] O que é uma **linguagem formal `L`**;
+
+      É um conjunto de palavras construídas a partir de um alfabeto.
 * [ ] O que significa **`L ⊆ Σ*`**;
+
+      L é um subconjunto de Sigma estrela (L é um conjunto de palavras escolhidas de Σ*).
 * [ ] O que é uma **gramática formal**;
+
+      Fornece regras para gerar palavras.
 * [ ] O que são **terminais e não terminais**;
+
+      São elementos de uma gramática onde N representa os Não Terminais e Σ representa os Terminais.
 * [ ] O que é uma **regra de produção**;
+
+      São as regras que definem como as palavras são geradas (ex: S → aS | ε). O símbolo | nelas significa "OU".
 * [ ] Como ler **`S → aS | ε`**;
+
+      S produz aS ou ε.
 * [ ] Como gerar palavras usando uma gramática.
+
+      Através da derivação, começando sempre pelo símbolo inicial e aplicando as regras de produção sucessivamente até obter a palavra desejada.
 
 ---
 
