@@ -13,7 +13,7 @@
 |---|---|
 | Turma | |
 | Data | |
-| Integrante 1 | |
+| Integrante 1 | Victor Alves Moreira |
 | Integrante 2 |Beatriz Nevis |
 | Integrante 3 | |
 | Integrante 4 | |
