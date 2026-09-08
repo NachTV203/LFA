@@ -14,7 +14,7 @@
 | Turma | |
 | Data | |
 | Integrante 1 | |
-| Integrante 2 | |
+| Integrante 2 |Beatriz Nevis |
 | Integrante 3 | |
 | Integrante 4 | |
 
