@@ -8,7 +8,7 @@
 ---
 
 ## Identificação do grupo
-
+ 
 | Campo | Preenchimento |
 |---|---|
 | Turma | |
