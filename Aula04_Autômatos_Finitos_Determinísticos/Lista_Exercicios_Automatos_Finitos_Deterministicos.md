@@ -11,8 +11,8 @@
  
 | Campo | Preenchimento |
 |---|---|
-| Turma | |
-| Data | |
+| Turma | N1 |
+| Data | 08/09/26 |
 | Integrante 1 | Victor Alves Moreira |
 | Integrante 2 |Beatriz Nevis |
 | Integrante 3 | |
