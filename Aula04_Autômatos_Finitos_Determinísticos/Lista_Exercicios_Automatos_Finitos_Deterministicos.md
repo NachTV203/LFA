@@ -41,7 +41,7 @@ Ligado    --pressionar--> Desligado
 
 Responda:
 
-1. Quantos estados existem?
+1. Quantos estados existem? 2- ligado e desligado 
 2. Qual é o estado inicial, considerando que a lâmpada começa apagada?
 3. Qual entrada provoca uma transição?
 4. Partindo de `Desligado`, qual será o estado após um acionamento?
