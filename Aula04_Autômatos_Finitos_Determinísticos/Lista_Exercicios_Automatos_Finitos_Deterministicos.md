@@ -44,8 +44,8 @@ Responda:
 1. Quantos estados existem? 2- ligado e desligado 
 2. Qual é o estado inicial, considerando que a lâmpada começa apagada? O estado inicial é desligado 
 3. Qual entrada provoca uma transição? Entrada Pressionar 
-4. Partindo de `Desligado`, qual será o estado após um acionamento? O estado voltará a ser Desligado.
-5. Partindo de `Desligado`, qual será o estado após dois acionamentos?
+4. Partindo de `Desligado`, qual será o estado após um acionamento? O estado 
+5. Partindo de `Desligado`, qual será o estado após dois acionamentos?  O estado voltará a ser Desligado
 6. Explique o funcionamento do sistema com suas palavras.
 
 ## Exercício 2 — Porta automática
