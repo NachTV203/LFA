@@ -116,7 +116,7 @@ Explique por que esses cinco elementos são suficientes para definir o funcionam
 Considere `Σ = {0,1}`, `Q = {q0,q1,q2}`, estado inicial `q0`, `F = {q1}` e:
 
 | δ | 0 | 1 |
-|---|---|---|
+|---|---|---| 
 | q0 | q0 | q1 |
 | q1 | q2 | q1 |
 | q2 | q1 | q1 |
