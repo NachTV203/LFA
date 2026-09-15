@@ -78,9 +78,9 @@ Considere um AFD com `Σ = {0,1}`, `Q = {q0,q1}`, estado inicial `q0`, estado fi
 
 Identifique e explique:
 
-1. o alfabeto `Σ`; conjunto de símbolos que podem aparecer como entrada.
-2. o conjunto de estados `Q`; estados que o autômato pode assumir
-3. o estado inicial;
+1. o alfabeto `Σ`; {0, 1} conjunto de símbolos que podem aparecer como entrada.
+2. o conjunto de estados `Q`; {q0, q1} estados que o autômato pode assumir
+3. o estado inicial; {q1} — estado que indica aceitação da palavra quando a leitura termina.
 4. o conjunto de estados finais `F`;
 5. os símbolos que podem ser lidos;
 6. o significado do círculo duplo em um diagrama;
