@@ -156,7 +156,7 @@ Resultado: ACEITA
 | Cadeia | Caminho percorrido | Estado final | Resultado |
 |---|---|---|---|
 | `1` |	q0 → q1 |	q1| ACEITA |
-| `0011001` | 	q0 → q0 → q0 → q1 → q1 → q2 → q1 → q1 | 	q1| |
+| `0011001` | 	q0 → q0 → q0 → q1 → q1 → q2 → q1 → q1 | 	q1| ACEITA|
 | `010010` | | | |
 | `1101` | | | |
 | `000011010` | | | |
