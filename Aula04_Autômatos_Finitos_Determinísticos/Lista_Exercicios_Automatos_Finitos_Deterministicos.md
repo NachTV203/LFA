@@ -97,12 +97,13 @@ M = (Σ, Q, δ, q0, F)
 Complete:
 
 | Elemento | Significado |
-|---|---|
-| `Σ` | |
-| `Q` | |
-| `δ` | |
-| `q0` | |
-| `F` | |
+|---|---|    
+| `Σ` | |     Alfabeto: conjunto de símbolos que podem ser lidos pelo AFD.
+| `Q` | |     Conjunto de estados: todos os estados possíveis do autômato.
+| `δ` | |     Função de transição: determina para qual estado o AFD deve ir ao ler cada símbolo em cada estado.
+| `q0` | |    Estado inicial: estado em que o AFD começa a processar a entrada.
+| `F` | |     	Conjunto de estados finais (ou de aceitação): estados que indicam que a palavra de entrada foi aceita pelo AFD.
+
 
 Explique por que esses cinco elementos são suficientes para definir o funcionamento de um AFD.
 
