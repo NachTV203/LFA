@@ -78,7 +78,7 @@ Considere um AFD com `Σ = {0,1}`, `Q = {q0,q1}`, estado inicial `q0`, estado fi
 
 Identifique e explique:
 
-1. o alfabeto `Σ`;
+1. o alfabeto `Σ`; conjunto de símbolos que podem aparecer como entrada.
 2. o conjunto de estados `Q`;
 3. o estado inicial;
 4. o conjunto de estados finais `F`;
