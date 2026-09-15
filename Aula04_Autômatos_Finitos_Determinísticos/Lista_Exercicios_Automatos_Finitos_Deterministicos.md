@@ -123,7 +123,7 @@ Considere `Σ = {0,1}`, `Q = {q0,q1,q2}`, estado inicial `q0`, `F = {q1}` e:
 
 Responda:
 
-1. Qual é o resultado de `δ(q0,0)`?
+1. Qual é o resultado de `δ(q0,0)`?  δ(q0,0)=q0
 2. Qual é o resultado de `δ(q0,1)`?
 3. Qual é o resultado de `δ(q1,0)`?
 4. Qual é o resultado de `δ(q2,1)`?
