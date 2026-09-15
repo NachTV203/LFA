@@ -58,7 +58,7 @@ Complete a tabela:
 |---|---|---|
 | Fechado | pessoa_detectada | Aberto |
 | Fechado | nenhuma_pessoa | Fechado |
-| Aberto | pessoa_detectada | |
+| Aberto | pessoa_detectada | Aberto |
 | Aberto | nenhuma_pessoa | |
 
 Depois, desenhe o diagrama de estados correspondente e indique o estado inicial.
