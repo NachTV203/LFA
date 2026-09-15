@@ -155,7 +155,7 @@ Resultado: ACEITA
 
 | Cadeia | Caminho percorrido | Estado final | Resultado |
 |---|---|---|---|
-| `1` | | | |
+| `1` |	q0 → q1 | | |
 | `0011001` | | | |
 | `010010` | | | |
 | `1101` | | | |
