@@ -174,6 +174,26 @@ Construa um AFD sobre `Σ = {0,1}` que reconheça todas as cadeias que terminam 
 
 Entregue: conjunto de estados, alfabeto, estado inicial, estados finais, tabela, diagrama e teste de pelo menos cinco cadeias.
 Conjunto de estados Q = {q0, q1}, Alfabeto Σ = {0, 1}, Estado inicial q0, Estados finais F = {q1}, 
+
+| Estado | Entrada 0 | Entrada 1 |
+|---|---|---|
+| → q0 | 	q0 | q1 |
+| * q1 | n	q0 | q1 |
+
+
+|        1
+|   ┌──────────► ((q1))
+v   │             │
+|   │             │ 1
+|   │             ▼
+|→ (q0) ◄─────────┘
+|   ▲
+|   │ 0
+|   └──────────────
+|  
+|q1 --0--> q0     
+
+
 ## Exercício 8 — Número par de símbolos `1`
 
 Construa um AFD sobre `Σ = {0,1}` que reconheça cadeias com quantidade par de símbolos `1`.
