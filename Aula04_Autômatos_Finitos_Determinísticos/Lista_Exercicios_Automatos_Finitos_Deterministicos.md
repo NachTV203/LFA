@@ -46,7 +46,7 @@ Responda:
 3. Qual entrada provoca uma transição? Entrada Pressionar 
 4. Partindo de `Desligado`, qual será o estado após um acionamento? O estado será ligado 
 5. Partindo de `Desligado`, qual será o estado após dois acionamentos?  O estado voltará a ser Desligado
-6. Explique o funcionamento do sistema com suas palavras.
+6. Explique o funcionamento do sistema com suas palavras.  a lâmpada pode estar em dois estados, ligada ou desligada. Cada vez que o botão é pressionado, a lâmpada muda para o estado contrário. Se estiver desligada, fica ligada; se estiver ligada, fica desligada. 
 
 ## Exercício 2 — Porta automática
 
@@ -173,7 +173,7 @@ Construa um AFD sobre `Σ = {0,1}` que reconheça todas as cadeias que terminam 
 - Devem ser rejeitadas: `ε`, `0`, `10`, `100`, `1110`.
 
 Entregue: conjunto de estados, alfabeto, estado inicial, estados finais, tabela, diagrama e teste de pelo menos cinco cadeias.
-
+Conjunto de estados Q = {q0, q1}, Alfabeto Σ = {0, 1}, Estado inicial q0, Estados finais F = {q1}, 
 ## Exercício 8 — Número par de símbolos `1`
 
 Construa um AFD sobre `Σ = {0,1}` que reconheça cadeias com quantidade par de símbolos `1`.
