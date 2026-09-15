@@ -57,7 +57,7 @@ Complete a tabela:
 | Estado atual | Entrada | Próximo estado |
 |---|---|---|
 | Fechado | pessoa_detectada | Aberto |
-| Fechado | nenhuma_pessoa | |
+| Fechado | nenhuma_pessoa | Fechado |
 | Aberto | pessoa_detectada | |
 | Aberto | nenhuma_pessoa | |
 
