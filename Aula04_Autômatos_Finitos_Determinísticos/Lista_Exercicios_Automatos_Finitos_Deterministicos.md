@@ -106,7 +106,7 @@ Complete:
 
 
 Explique por que esses cinco elementos são suficientes para definir o funcionamento de um AFD.
-
+Portanto, esses cinco elementos determinam completamente como o AFD funciona e quais palavras ele aceita.
 ---
 
 # Parte 3 — Tabela de transições e cadeias
