@@ -138,6 +138,7 @@ Responda:
   └──0───────┘  └────1─────┘
 
 7. Justifique por que o autômato é determinístico.
+porque, para cada estado e cada símbolo do alfabeto {0,1}, existe exatamente uma única transição possível.
 
 ## Exercício 6 — Aceita ou rejeita?
 
