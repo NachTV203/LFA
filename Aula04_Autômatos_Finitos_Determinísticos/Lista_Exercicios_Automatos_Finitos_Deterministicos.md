@@ -129,6 +129,14 @@ Responda:
 4. Qual é o resultado de `δ(q2,1)`?  δ(q2,1)=q1
 5. Qual é o estado de aceitação?   F={q1}
 6. Desenhe o diagrama correspondente à tabela.
+                 1
+            ┌─────────┐
+            │         ▼
+→ q0 ──1──> ((q1)) ──0──> q2
+  ↑          │  ▲          │
+  │          │  │          │
+  └──0───────┘  └────1─────┘
+
 7. Justifique por que o autômato é determinístico.
 
 ## Exercício 6 — Aceita ou rejeita?
