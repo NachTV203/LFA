@@ -82,7 +82,7 @@ Identifique e explique:
 2. o conjunto de estados `Q`; {q0, q1} estados que o autômato pode assumir
 3. o estado inicial; {q1} estado que indica aceitação da palavra quando a leitura termina.
 4. o conjunto de estados finais `F`; {q1} estado que indica aceitação da palavra quando a leitura termina.
-5. os símbolos que podem ser lidos;
+5. os símbolos que podem ser lidos; 0 e 1, são os símbolos pertencentes ao alfabeto Σ.
 6. o significado do círculo duplo em um diagrama;
 7. o significado da seta sem origem apontando para um estado.
 
