@@ -112,9 +112,9 @@ Após executar a máquina, registre as evidências abaixo:
 
 | Teste | Entrada | Resultado esperado | Resultado obtido | Estados percorridos |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | Ex.: `0011` | ACEITA | *[Sua resposta]* | *[Sua resposta]* |
-| **2** | Ex.: `000111` | ACEITA | *[Sua resposta]* | *[Sua resposta]* |
-| **3** | Ex.: `00111` | REJEITA | *[Sua resposta]* | *[Sua resposta]* |
+| **1** | Ex.: `0011` | ACEITA | ACEITA (XXYY) | inicio -> procura1 -> volta -> inicio -> procura1 -> volta -> inicio -> ACEITA |
+| **2** | Ex.: `000111` | ACEITA | ACEITA (XXXYYY) | inicio -> procura1 -> volta (repetido 3x) -> inicio -> ACEITA |
+| **3** | Ex.: `00111` | REJEITA | REJEITA (XXYY1) | volta (repetido 2x) -> inicio -> lê 1 e para por falta de regra -> REJEITA |
 
 **Descrição da Máquina de Turing criada:**
 > Descreva brevemente como sua máquina funciona (lógica de transição, marcação de símbolos, etc)...
