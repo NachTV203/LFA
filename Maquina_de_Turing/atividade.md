@@ -51,7 +51,7 @@ Ao final da atividade, o estudante deverá ser capaz de:
 > Ela definiu o limite matemático do que um computador pode fazer. Turing venho provar que uma única máquina poderia simular qualquer outra se programa e dados convivessem no mesmo espaço. Essa é a base de todos os computadores modernos da arquitetura de Von Neumann, separando o que é um computador de verdade de uma simples "máquina de calcular gigante".
 
 **4. Qual é a relação entre Máquina de Turing e algoritmo?**
-> Escreva sua resposta aqui...
+> A Máquina de Turing é, na prática, a definição formal e matemática do que é um algoritmo. Um algoritmo é uma sequência finita de instruções para resolver um problema. Na Máquina de Turing, essa sequência é representada pela tabela de estados e transições. Se um problema possui um algoritmo capaz de resolvê-lo, ele pode ser executado e simulado por uma Máquina de Turing o que pode ser chamado de "Turing Complete".
 
 
 ### Etapa 2 — Simulação
@@ -74,6 +74,36 @@ Crie uma máquina capaz de reconhecer palavras da forma: **`0^n1^n`**
 
 > **Desafio:** A máquina deverá verificar se existe a mesma quantidade de símbolos **0** e **1**, seguindo a lógica de funcionamento de uma Máquina de Turing.
 
+```yaml
+
+input: '001'
+blank: ' '
+start state: inicio
+
+table:
+
+  inicio:
+    X: R
+    0: {write: X, R: procura1}
+    Y: R
+    ' ': {R: aceita}
+
+  procura1:
+    0: R
+    X: R
+    Y: R
+    1: {write: Y, L: volta}
+    ' ': {R: rejeita}
+
+  volta:
+    [0,1,X,Y]: L
+    ' ': {R: inicio}
+
+  aceita:
+
+  rejeita:
+
+```
 
 ### Etapa 3 — Registro da simulação
 Após executar a máquina, registre as evidências abaixo:
