@@ -42,13 +42,13 @@ Ao final da atividade, o estudante deverá ser capaz de:
 *Após assistir ao vídeo e estudar o material disponibilizado, responda às questões abaixo.*
 
 **1. O que é uma Máquina de Turing?**
-> Escreva sua resposta aqui...
+> Como explicado no vídeo, não é um computador físico, mas sim um modelo matemático abstrato criado por Alan Turing em 1936 para definir o que é computação. Turing por conta da maquina de escrever de sua mãe imaginou uma espécie de "super máquina de escrever" que processa símbolos (como 0 e 1) em uma fita infinita, sendo capaz de ler, apagar e escrever dados com base em configurações predeterminadas. 
 
 **2. Quais são os principais componentes de uma Máquina de Turing?**
-> Escreva sua resposta aqui...
+> Ela é composta por uma **fita infinita** (que serve ao mesmo tempo como armazenamento de dados e de simbolos), uma **cabeça de leitura/escrita** (que se move para a esquerda ou direita) e um **conjunto finito de estados e regras de transição** (que dizem para a máquina o que fazer dependendo do estado atual e do símbolo que está sendo lido na fita).
 
 **3. Qual é a importância das Máquinas de Turing para a computação?**
-> Escreva sua resposta aqui...
+> Ela definiu o limite matemático do que um computador pode fazer. Turing venho provar que uma única máquina poderia simular qualquer outra se programa e dados convivessem no mesmo espaço. Essa é a base de todos os computadores modernos da arquitetura de Von Neumann, separando o que é um computador de verdade de uma simples "máquina de calcular gigante".
 
 **4. Qual é a relação entre Máquina de Turing e algoritmo?**
 > Escreva sua resposta aqui...
