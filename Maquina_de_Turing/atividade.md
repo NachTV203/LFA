@@ -12,7 +12,7 @@
 ## 🎥 Material Obrigatório
 
 **Assista ao vídeo antes de realizar a atividade:**  
-[Akitando #86 — O Computador de Turing e Von Neumann: Por que calculadoras não são computadores?](https://www.youtube.com/watch?v=YOUR_LINK_HERE) *(Substitua pelo link se desejar)*
+[Akitando #86 — O Computador de Turing e Von Neumann: Por que calculadoras não são computadores?]([https://www.youtube.com/watch?v=YOUR_LINK_HERE](https://akitaonrails.com/2020/10/23/akitando-86-o-computador-de-turing-e-von-neumann-por-que-calculadoras-nao-sao-computadores/)) 
 
 > **Orientação:** Assista ao material com atenção e utilize os conceitos apresentados para responder às questões e desenvolver a atividade de simulação.
 
@@ -117,17 +117,22 @@ Após executar a máquina, registre as evidências abaixo:
 | **3** | `00111` | REJEITA | REJEITA (XXYY1) | volta (repetido 2x) -> inicio -> lê 1 e para por falta de regra -> REJEITA |
 
 **Descrição da Máquina de Turing criada:**
-> Descreva brevemente como sua máquina funciona (lógica de transição, marcação de símbolos, etc)...
+> A máquina funciona com a lógica de ida e volta marcando pares. No estado "inicio", ela procura um 0, substitui por "X" e muda para o estado `procura1`, indo para a direita. Ela ignora os outros 0s até achar o primeiro 1, que ela substitui por "Y". Em seguida, entra no estado volta, indo para a esquerda até achar um espaço em branco, reiniciando o ciclo. Se ao final do processo, no estado "inicio", ela ler apenas "X", "Y" e, por fim, um espaço em branco, ela `aceita` pois seria quantidades iguais. Se faltar par para um 0 ou sobrar um 1, ela cai no estado "rejeita" e trava.
 
 **Captura de tela da simulação:**
-*(Para adicionar a imagem no GitHub, basta arrastá-la para o editor ou usar a tag abaixo com o caminho da sua imagem)*
-> ![Captura de tela da Simulação](caminho_para_sua_imagem_aqui.png)
+
+<img width="1463" height="786" alt="image" src="https://github.com/user-attachments/assets/436772f8-9e0e-4cf8-a92c-0c1d25c076b5" />
+<img width="1467" height="783" alt="image" src="https://github.com/user-attachments/assets/5648480b-3961-4ec7-aba4-c1ab83026ac2" />
+<img width="1468" height="790" alt="image" src="https://github.com/user-attachments/assets/1fc4c7b4-39af-4a64-bd2b-6663640f3650" />
+<img width="1467" height="788" alt="image" src="https://github.com/user-attachments/assets/6668b57a-98d3-47e3-bbd9-1fcaf1ed0f75" />
+<img width="1468" height="792" alt="image" src="https://github.com/user-attachments/assets/49ac4c54-0f25-4f80-abea-88bb93e448dd" />
+<img width="1468" height="789" alt="image" src="https://github.com/user-attachments/assets/a3682658-7492-49c3-b714-61761d7eb242" />
 
 
 ### Etapa 4 — Reflexão sobre os limites computacionais
 
-**Uma Máquina de Turing consegue resolver qualquer problema? Explique com suas palavras por que existem problemas que não podem ser resolvidos por algoritmos.** *(Sua resposta deve ter entre 5 e 10 linhas)*
-> Escreva sua reflexão aqui...
+**Uma Máquina de Turing consegue resolver qualquer problema? Explique com suas palavras por que existem problemas que não podem ser resolvidos por algoritmos.** 
+> Não. Uma Máquina de Turing não consegue resolver todos os problemas. Existem alguns problemas que simplesmente não podem ser resolvidos por algoritmos, porque não existe uma sequência de passos que consiga chegar a uma resposta para todos os casos possíveis.
 
 ---
 
@@ -138,8 +143,6 @@ O estudante deverá enviar **um único arquivo** contendo:
 - [x] Capturas de tela da simulação;
 - [x] Resultados dos 3 testes;
 - [x] Resposta da reflexão sobre os limites computacionais.
-
-**Formato:** PDF ou documento do Word *(Você pode exportar este Markdown para PDF usando extensões do VSCode ou navegadores, se o professor exigir esse formato).*
 
 ---
 
@@ -163,7 +166,8 @@ Imagine que você recebeu um problema computacional muito complexo. Como saber s
 
 *Explique utilizando os conceitos estudados sobre **Máquinas de Turing, computabilidade e limites computacionais.***
 
-> Escreva sua resposta final aqui...
+> Um problema é apenas difícil quando existe uma forma de resolvê-lo, mesmo que demore bastante. Já um problema não computável é aquele que não pode ser resolvido por nenhum algoritmo em todos os casos. Isso mostra que os computadores também têm limites e não conseguem resolver tudo.
+
 
 ---
 
