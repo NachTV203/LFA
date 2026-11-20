@@ -134,5 +134,5 @@ O conjunto didático reúne **36 registros fictícios**, com **12 exemplos por c
 1. LACERDA JÚNIOR, Francisco Pires de. **Da proibição à governança: uso ético da inteligência artificial generativa na educação superior — uma revisão integrativa (2023–2026)**. *Revista Foco*, v. 19, n. 8, 2026. DOI: https://doi.org/10.54751/revistafoco.v19n8-017.
 2. UNESCO, **Ética da Inteligência Artificial (IA) no Brasil** - https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil
 3. INSTITUTO DE ESTUDOS AVANÇADOS DA USP. **O Estado da Arte em Ética na Inteligência Artificial**. Gravação de 9 jun. 2026. https://www.iea.usp.br/midiateca/video/videos-2026/o-estado-da-arte-em-etica-na-inteligencia-artificial/.
-4. ABNT. **NBR 5410 — Instalações elétricas de baixa tensão**. Norma mencionada no projeto de referência; conferir a edição aplicável para uso técnico.
+4. ABNT. **NBR 5410 — Instalações elétricas de baixa tensão**. Norma mencionada no projeto de referência; conferir a edição aplicável para uso técnico. https://universidadeniltonlins.com.br/wp-content/uploads/2019/04/NBR-5410.pdf
 5. SCIKIT-LEARN. **DecisionTreeClassifier**. Documentação: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html.
