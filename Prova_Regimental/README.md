@@ -3,7 +3,16 @@
 **Sistema especialista com aprendizado supervisionado — atividade adaptada ao setor de energia**
 
 **Área:** Inteligência Artificial e LFA | Sistemas Especialistas  
-**Autores:** Victor Alves Moreira (RGM: 30159067) e Beatriz Nevis Miranda (RGM: 37227581)
+**Autores:** 
+
+Nome: Victor Alves Moreira RGM: 30159067
+
+Nome: Beatriz Nevis Miranda RGM: 37227581
+
+Nome: Paulo André Gemmal Fonseca RGM: 38030144
+
+Nome: Maurício Gabriel Gemmal Fonseca RGM: 38031183
+
 
 > [!IMPORTANT]
 > Este é um **protótipo didático** de apoio ao aprendizado e à análise preliminar de instalações elétricas. **Não substitui** o projeto, o dimensionamento ou a execução por profissional habilitado. Trabalhar com eletricidade oferece riscos.
