@@ -4,9 +4,14 @@
 **Projeto de referência:** *Aprendizado de Máquina Aplicado à Distribuição de Circuitos Elétricos Residenciais*  
 **Integrantes informados no projeto:** 
 
-**Aluno:** Victor Alves Moreira  ----------- RGM: 30159067
+Nome: Victor Alves Moreira --------------------- RGM: 30159067
 
-**Aluno:** Beatriz Nevis Miranda --------- RGM: 37227581
+Nome: Beatriz Nevis Miranda ------------------- RGM: 37227581
+
+Nome: Paulo André Gemmal Fonseca -------- RGM: 38030144
+
+Nome: Maurício Gabriel Gemmal Fonseca -- RGM: 38031183
+
 
 
 **Natureza:** análise acadêmica de um protótipo didático, não de um projeto executivo de instalação elétrica.
