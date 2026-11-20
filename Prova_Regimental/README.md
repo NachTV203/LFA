@@ -2,6 +2,8 @@
 
 **Sistema especialista com aprendizado supervisionado — atividade adaptada ao setor de energia**
 
+**Link do Motor de inferência:** https://colab.research.google.com/drive/1Kc7NWuZ0ELbgLbLmnz_ktn6iBo-GScb0#scrollTo=celula_03
+
 **Área:** Inteligência Artificial e LFA | Sistemas Especialistas  
 **Autores:** 
 
