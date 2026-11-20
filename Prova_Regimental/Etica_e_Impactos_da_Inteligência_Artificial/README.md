@@ -2,7 +2,13 @@
 
 **Disciplina:** Inteligência Artificial e LFA — Sistemas Especialistas  
 **Projeto de referência:** *Aprendizado de Máquina Aplicado à Distribuição de Circuitos Elétricos Residenciais*  
-**Integrantes informados no projeto:** Victor Alves Moreira e Beatriz Nevis Miranda  
+**Integrantes informados no projeto:** 
+
+**Aluno:** Victor Alves Moreira  ----------- RGM: 30159067
+
+**Aluno:** Beatriz Nevis Miranda --------- RGM: 37227581
+
+
 **Natureza:** análise acadêmica de um protótipo didático, não de um projeto executivo de instalação elétrica.
 
 
