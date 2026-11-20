@@ -27,7 +27,7 @@ Nome: Maurício Gabriel Gemmal Fonseca -- RGM: 38031183
 
 **Como isso se aplica ao projeto:** informar que o ChatGPT auxiliou na organização e na redação desta análise e distinguir esse apoio da IA implementada no protótipo em Python. Também conferir as regras R1 a R8 com o texto do projeto e, antes de qualquer uso prático, submeter conclusões elétricas a profissional habilitado.
 
-> **Comentário da dupla:** No nosso projeto, declarar o apoio do ChatGPT não reduz a importância do trabalho da equipe. O cuidado ético está em conferir as informações, assumir as decisões tomadas e não confundir a IA usada para redigir o relatório com a árvore de decisão e as regras implementadas no Colab.
+> **Comentário do Grupo:** No nosso projeto, declarar o apoio do ChatGPT não reduz a importância do trabalho da equipe. O cuidado ético está em conferir as informações, assumir as decisões tomadas e não confundir a IA usada para redigir o relatório com a árvore de decisão e as regras implementadas no Colab.
 
 ### 1.2 Texto da UNESCO — ética da IA e responsabilidade social
 
@@ -70,7 +70,7 @@ O projeto desenvolve, em Python e com execução no Google Colab, um protótipo 
 
 O documento define na **regra R7** que um ponto destinado a equipamento individual com corrente nominal superior a **10 A** deve ter circuito independente. No entanto, o **trecho resumido de código mostrado no PDF** só acrescenta o alerta R7 quando a classe já foi prevista como `circuito_exclusivo` e a corrente ultrapassa 10 A. A equipe deve verificar a implementação completa no Colab e testar se um equipamento individual acima desse limite recebe o alerta mesmo quando a classificação inicial do modelo for inadequada. Essa checagem é uma medida concreta de segurança e transparência, não uma afirmação de que o código integral tenha sido reprovado.
 
-> **Comentário da dupla:** Esse é um teste importante antes da apresentação: consultar um equipamento individual com corrente acima de 10 A e verificar se o alerta de circuito independente aparece mesmo quando a previsão da árvore estiver incorreta. Se o alerta não aparecer, a regra de segurança precisa ser revista no código completo.
+> **Comentário do Grupo:** Esse é um teste importante antes da apresentação: consultar um equipamento individual com corrente acima de 10 A e verificar se o alerta de circuito independente aparece mesmo quando a previsão da árvore estiver incorreta. Se o alerta não aparecer, a regra de segurança precisa ser revista no código completo.
 
 
 ## 3. Debate em sala e reflexão individual
@@ -87,7 +87,7 @@ O documento define na **regra R7** que um ponto destinado a equipamento individu
 
 **Pergunta que pode ser feita quanto ao sistema:** se o sistema classificar de forma incorreta um equipamento de alta corrente, em que ponto a equipe deve impedir uma recomendação automática e exigir revisão humana?
 
-> **Comentário da dupla:** Nossa proposta é manter o sistema acessível para estudo, mas com limites claros quando houver risco elétrico. Um aviso genérico pode não ser suficiente para cargas como o chuveiro. Preferimos que a resposta mostre a regra utilizada e encaminhe o dimensionamento e a execução a um profissional habilitado.
+> **Comentário do Grupo:** Nossa proposta é manter o sistema acessível para estudo, mas com limites claros quando houver risco elétrico. Um aviso genérico pode não ser suficiente para cargas como o chuveiro. Preferimos que a resposta mostre a regra utilizada e encaminhe o dimensionamento e a execução a um profissional habilitado.
 
 
 ### 3.2 Reflexão individual — texto-base a finalizar depois do debate
