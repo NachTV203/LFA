@@ -1,0 +1,37 @@
+﻿comodo,potencia_w,tensao_v,corrente_a,ponto_de_luz,uso_exclusivo,classe
+Sala,60,220,0.2727,1,0,iluminacao
+Quarto 1,80,220,0.3636,1,0,iluminacao
+Quarto 2,100,220,0.4545,1,0,iluminacao
+Cozinha,120,220,0.5455,1,0,iluminacao
+Banheiro,160,220,0.7273,1,0,iluminacao
+Área de serviço,180,220,0.8182,1,0,iluminacao
+Sala,200,220,0.9091,1,0,iluminacao
+Quarto 1,240,220,1.0909,1,0,iluminacao
+Quarto 2,260,220,1.1818,1,0,iluminacao
+Cozinha,300,220,1.3636,1,0,iluminacao
+Banheiro,400,220,1.8182,1,0,iluminacao
+Área de serviço,480,220,2.1818,1,0,iluminacao
+Sala,100,220,0.4545,0,0,tomadas_gerais
+Quarto 1,250,220,1.1364,0,0,tomadas_gerais
+Quarto 2,350,220,1.5909,0,0,tomadas_gerais
+Cozinha,500,220,2.2727,0,0,tomadas_gerais
+Banheiro,600,220,2.7273,0,0,tomadas_gerais
+Área de serviço,700,220,3.1818,0,0,tomadas_gerais
+Sala,850,220,3.8636,0,0,tomadas_gerais
+Quarto 1,1000,220,4.5455,0,0,tomadas_gerais
+Quarto 2,1200,220,5.4545,0,0,tomadas_gerais
+Cozinha,1400,220,6.3636,0,0,tomadas_gerais
+Banheiro,1600,220,7.2727,0,0,tomadas_gerais
+Área de serviço,1800,220,8.1818,0,0,tomadas_gerais
+Sala,800,220,3.6364,0,1,circuito_exclusivo
+Quarto 1,1200,220,5.4545,0,1,circuito_exclusivo
+Quarto 2,1500,220,6.8182,0,1,circuito_exclusivo
+Cozinha,1800,220,8.1818,0,1,circuito_exclusivo
+Banheiro,2200,220,10.0,0,1,circuito_exclusivo
+Área de serviço,2500,220,11.3636,0,1,circuito_exclusivo
+Sala,3000,220,13.6364,0,1,circuito_exclusivo
+Quarto 1,3500,220,15.9091,0,1,circuito_exclusivo
+Quarto 2,4500,220,20.4545,0,1,circuito_exclusivo
+Cozinha,5500,220,25.0,0,1,circuito_exclusivo
+Banheiro,6500,220,29.5455,0,1,circuito_exclusivo
+Área de serviço,7500,220,34.0909,0,1,circuito_exclusivo
